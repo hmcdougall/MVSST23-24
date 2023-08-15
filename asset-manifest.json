@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/MVSST23-24/static/css/main.499ea816.css",
-    "main.js": "/MVSST23-24/static/js/main.03f331c2.js",
+    "main.js": "/MVSST23-24/static/js/main.01fcde2a.js",
     "static/js/787.c4d18463.chunk.js": "/MVSST23-24/static/js/787.c4d18463.chunk.js",
     "static/media/AllTeamCalJuly23.pdf": "/MVSST23-24/static/media/AllTeamCalJuly23.468de64523cf4ebfc53c.pdf",
     "index.html": "/MVSST23-24/index.html",
     "main.499ea816.css.map": "/MVSST23-24/static/css/main.499ea816.css.map",
-    "main.03f331c2.js.map": "/MVSST23-24/static/js/main.03f331c2.js.map",
+    "main.01fcde2a.js.map": "/MVSST23-24/static/js/main.01fcde2a.js.map",
     "787.c4d18463.chunk.js.map": "/MVSST23-24/static/js/787.c4d18463.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.499ea816.css",
-    "static/js/main.03f331c2.js"
+    "static/js/main.01fcde2a.js"
   ]
 }
