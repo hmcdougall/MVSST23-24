@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/MVSST23-24/static/css/main.1c2027f8.css",
-    "main.js": "/MVSST23-24/static/js/main.9a2448da.js",
+    "main.css": "/MVSST23-24/static/css/main.5504b7dd.css",
+    "main.js": "/MVSST23-24/static/js/main.03f331c2.js",
     "static/js/787.c4d18463.chunk.js": "/MVSST23-24/static/js/787.c4d18463.chunk.js",
+    "static/media/AllTeamCalJuly23.pdf": "/MVSST23-24/static/media/AllTeamCalJuly23.468de64523cf4ebfc53c.pdf",
     "index.html": "/MVSST23-24/index.html",
-    "main.1c2027f8.css.map": "/MVSST23-24/static/css/main.1c2027f8.css.map",
-    "main.9a2448da.js.map": "/MVSST23-24/static/js/main.9a2448da.js.map",
+    "main.5504b7dd.css.map": "/MVSST23-24/static/css/main.5504b7dd.css.map",
+    "main.03f331c2.js.map": "/MVSST23-24/static/js/main.03f331c2.js.map",
     "787.c4d18463.chunk.js.map": "/MVSST23-24/static/js/787.c4d18463.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c2027f8.css",
-    "static/js/main.9a2448da.js"
+    "static/css/main.5504b7dd.css",
+    "static/js/main.03f331c2.js"
   ]
 }
