@@ -29,3 +29,7 @@ button {
   padding: 2%;
   border-radius: 10px;
 }
+
+a {
+  color: chartreuse;
+}

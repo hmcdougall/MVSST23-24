@@ -4,26 +4,26 @@ import cal from './AllTeamCalJuly23.pdf'
 import Confetti from 'react-confetti'
 
 const NAMES = [
-  'Annie',
-  'Sammie',
-  'Hannah',
-  'Maddie',
-  'Brynn',
-  'Maura',
-  'Melissa',
-  'Gg',
-  'Katie',
-  'Kendall',
-  'Piper',
-  'Lizzie',
-  'Paige South',
-  'Flo',
-  'Alessandra',
-  'Paige (freshie)',
-  'Amanda',
-  'Eleanor',
-  'Quinn',
-  'Sydney'
+  'Annie🐈',
+  'Sammie💃🏻',
+  'Hannah🧿',
+  'Maddie🥌',
+  'Brynn🐉',
+  'Maura🏔️',
+  'Melissa🦕',
+  'Gg🐓',
+  'Katie🦍',
+  'Kendall🚑',
+  'Piper🥳',
+  'Lizzie🦩',
+  'Paige South🍣',
+  'Flo🏄',
+  'Alessandra🏰',
+  'Paige (freshie)🌷',
+  'Amanda🍓',
+  'Eleanor🎀',
+  'Quinn🚲',
+  'Sydney🥛'
 ]
 
 function getName() {
@@ -45,9 +45,8 @@ function App() {
       <div className='section'>
         <div className={'root' + (party ? ' party' : '')}>
           <Confetti
-            // style={{ pointerEvents: 'none' }}
             numberOfPieces={party ? 500 : 0}
-            recycle={false}
+            recycle={true}
             onConfettiComplete={confetti => {
               setParty(false)
               confetti.reset()
